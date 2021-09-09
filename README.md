@@ -1,5 +1,5 @@
 ### HEYY! Um prazer, me chamo Luan.
-🌱 eu atualmente estou etudando o pacote fullstack da danki code
+🌱 eu atualmente estou estudando o pacote fullstack da danki code
 <div>
   <a href="https://github.com/LuanTenorio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanTenorio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
