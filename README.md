@@ -2,8 +2,8 @@
 🌱 Um estudande do ensino medio que gosta muito de aprender sobre o mundo da tecnologia
 <div>
   <a href="https://github.com/LuanTenorio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanTenorio&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanTenorio&layout=compact&theme=maroongold"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=LuanTenorio&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanTenorio&layout=compact&theme=maroongold"/>
 </div>
   
 <div style="display: inline_block"><br>
